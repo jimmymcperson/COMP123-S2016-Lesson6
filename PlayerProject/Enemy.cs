@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PlayerProject
 {
-    abstract class Enemy : GameObject
+    public abstract class Enemy : GameObject
     {
         private int _morale;
 

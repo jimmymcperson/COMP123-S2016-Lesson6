@@ -3,7 +3,7 @@
   <Class Name="PlayerProject.GameObject">
     <Position X="1" Y="0.5" Width="2" />
     <TypeIdentifier>
-      <HashCode>ABAAIAAAAAACAAAAAAAAAQQBAIEAAEAKRAAAAgAAAEA=</HashCode>
+      <HashCode>ABAAIAAAACASAAAgACAAAQQBAIEAAEEKRAAIggAAAEA=</HashCode>
       <FileName>GameObject.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -37,6 +37,20 @@
       <FileName>TouchingEnemy.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerProject.Program">
+    <Position X="6.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerProject.Vector2">
+    <Position X="1" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQAAAAAAAAAAAAAAQAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Vector2.cs</FileName>
+    </TypeIdentifier>
   </Class>
   <Interface Name="PlayerProject.IShootable">
     <Position X="5.5" Y="0.5" Width="1.5" />
